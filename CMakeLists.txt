@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.2)
+cmake_minimum_required(VERSION 3.31)
 project(nanobench LANGUAGES CXX)
 
 # determine whether this is a standalone project or included by other projects
